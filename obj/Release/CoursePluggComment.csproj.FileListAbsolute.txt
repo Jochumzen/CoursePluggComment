@@ -1,0 +1,5 @@
+C:\websites\dnndev.me\bin\CoursePluggComment.dll
+C:\websites\dnndev.me\bin\CoursePluggComment.pdb
+C:\websites\dnndev.me\DesktopModules\CoursePluggComment\obj\Release\CoursePluggComment.dll
+C:\websites\dnndev.me\DesktopModules\CoursePluggComment\obj\Release\CoursePluggComment.pdb
+C:\websites\dnndev.me\DesktopModules\CoursePluggComment\obj\Release\CoursePluggComment.csprojResolveAssemblyReference.cache
